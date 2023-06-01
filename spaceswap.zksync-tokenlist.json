@@ -1,12 +1,7 @@
 {
   "name": "EotcSwap Extended",
   "timestamp": "2023-01-02T06:50:15.853Z",
-  "version": {
-    "major": 1,
-    "minor": 1,
-    "patch": 0
-  },
-  "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotclist.png",
+  "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/logo.jpg",
   "keywords": ["eotcswap", "extended"],
   "tokens": [
     {
@@ -25,5 +20,10 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  }
 }
