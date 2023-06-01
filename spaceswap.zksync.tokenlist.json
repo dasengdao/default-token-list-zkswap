@@ -1,8 +1,13 @@
 {
-  "name": "SpaceSwapzkSync",
-  "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
-  "keywords": ["zksync", "spaceswap", "spacefi", "evmos"],
-  "timestamp": "2022-07-06T04:23:48.089Z",
+  "name": "EotcSwap Extended",
+  "timestamp": "2022-01-02T06:50:15.853Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotclist.png",
+  "keywords": ["eotcswap", "extended"],
   "tokens": [
     {
       "address": "0x880F03cA84e6Cf0D0871c9818A2981DEBabA22b3",
@@ -10,7 +15,7 @@
       "symbol": "tSPACE",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD74a0BdAe89c6c46f32933Dfe3CE788083746061.png"
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0xD74a0BdAe89c6c46f32933Dfe3CE788083746061.png"
     },
     {
       "address": "0x0faf6df7054946141266420b43783387a78d82a9",
@@ -18,7 +23,7 @@
       "symbol": "USDC",
       "chainId": 280,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x852a4599217E76aA725F0AdA8BF832a1F57a8A91.png"
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x852a4599217E76aA725F0AdA8BF832a1F57a8A91.png"
     },
     {
       "address": "0x0bfce1d53451b4a8175dd94e6e029f7d8a701e9c",
@@ -26,7 +31,7 @@
       "symbol": "wBTC",
       "chainId": 280,
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xfa9774996e6A39Dc483035f3638d0FD834eC7261.png"
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0xfa9774996e6A39Dc483035f3638d0FD834eC7261.png"
     },
     {
       "address": "0x40609141db628beee3bfab8034fc2d8278d0cc78",
@@ -34,7 +39,7 @@
       "symbol": "LINK",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xafa809f84C56c78d40a85D497807a7334b179c4C.png"
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0xafa809f84C56c78d40a85D497807a7334b179c4C.png"
     },
     {
       "address": "0x3e7676937a7e96cfb7616f255b9ad9ff47363d4b",
@@ -42,14 +47,15 @@
       "symbol": "DAI",
       "chainId": 280,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x2E4805d59193E173C9C8125B4Fc8F7f9c7a3a3eD.png"
-    },{
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x2E4805d59193E173C9C8125B4Fc8F7f9c7a3a3eD.png"
+    },
+    {
       "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
       "name": "WETH",
       "symbol": "WETH",
       "chainId": 324,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.png"
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.png"
     },
     {
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
@@ -57,19 +63,15 @@
       "symbol": "USDC",
       "chainId": 324,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
-    },{
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
+    },
+    {
       "address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
       "name": "SPACE",
       "symbol": "SPACE",
       "chainId": 324,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x47260090cE5e83454d5f05A0AbbB2C953835f777.png"
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x47260090cE5e83454d5f05A0AbbB2C953835f777.png"
     }
-  ],
-  "version": {
-    "major": 3,
-    "minor": 2,
-    "patch": 4
-  }
+  ]
 }
