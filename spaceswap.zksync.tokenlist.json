@@ -45,6 +45,14 @@
       "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91.png"
     },
     {
+      "address": "0x493257fd37edb34451f62edf8d2a0c418852ba4c",
+      "name": "UDST",
+      "symbol": "USDT",
+      "chainId": 324,
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x493257fd37edb34451f62edf8d2a0c418852ba4c.png"
+    },
+    {
       "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
       "name": "USDC",
       "symbol": "USDC",
@@ -54,7 +62,7 @@
     }
   ],
   "version": {
-    "major": 4,
+    "major": 2,
     "minor": 0,
     "patch": 0
   }
