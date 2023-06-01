@@ -1,0 +1,85 @@
+{
+  "name": "SpaceSwap",
+  "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/logo.jpg",
+  "keywords": ["celo", "spaceswap", "spacefi", "evmos"],
+  "timestamp": "2022-03-07T04:23:48.089Z",
+  "tokens": [
+    {
+      "address": "0x98664956D68A57762d92614B14244f2259714C9e",
+      "name": "taxlUSDC",
+      "symbol": "taxlUSDC",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x98664956D68A57762d92614B14244f2259714C9e.png"
+    },
+    {
+      "address": "0x14374eAE0Ce77A49c4645670424FCD2966e05322",
+      "name": "taxlWETH",
+      "symbol": "taxlWETH",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x14374eAE0Ce77A49c4645670424FCD2966e05322.png"
+    },
+    {
+      "address": "0xF0080856D14CeEcDc6f9a53e542930f66a627C56",
+      "name": "taxlWBTC",
+      "symbol": "taxlWBTC",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xF0080856D14CeEcDc6f9a53e542930f66a627C56.png"
+    },
+    {
+      "address": "0x16bE950f79fF3E4B7a8eA3F03cb02206684C2853",
+      "name": "tATOM",
+      "symbol": "tATOM",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x16bE950f79fF3E4B7a8eA3F03cb02206684C2853.png"
+    },
+    {
+      "address": "0x02Cc8FE0344E009Af94F31bd01a9EedD16da99BE",
+      "name": "tOSMO",
+      "symbol": "tOSMO",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x02Cc8FE0344E009Af94F31bd01a9EedD16da99BE.png"
+    },
+    {
+      "address": "0x915FE376966219409FB4A3D43032a81cd9da1253",
+      "name": "tJUNO",
+      "symbol": "tJUNO",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x915FE376966219409FB4A3D43032a81cd9da1253.png"
+    },
+    {
+      "address": "0xD587A74C63346Aab0E86cF4BF44861B53eAEF9B3",
+      "name": "tEVMOS",
+      "symbol": "tEVMOS",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xD587A74C63346Aab0E86cF4BF44861B53eAEF9B3.png"
+    },
+    {
+      "address": "0x46aF7538A64990A19b2bD0D5F5d946438eD09e65",
+      "name": "tSPACE",
+      "symbol": "tSPACE",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0x46aF7538A64990A19b2bD0D5F5d946438eD09e65.png"
+    },
+    {
+      "address": "0xd2B04836305dAc8Af45F4D8868c2eB340b1ADb26",
+      "name": "tREWARD",
+      "symbol": "tREWARD",
+      "chainId": 9000,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SpaceFinance/default-token-list/master/assets/0xd2B04836305dAc8Af45F4D8868c2eB340b1ADb26.png"
+    }
+  ],
+  "version": {
+    "major": 4,
+    "minor": 2,
+    "patch": 1
+  }
+}
