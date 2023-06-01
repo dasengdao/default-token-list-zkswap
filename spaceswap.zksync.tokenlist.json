@@ -3,20 +3,12 @@
   "timestamp": "2022-01-02T06:50:15.853Z",
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/EOTCotc/ListTokens/main/img/eotclist.png",
   "keywords": ["eotcswap", "extended"],
   "tokens": [
-    {
-      "address": "0x880F03cA84e6Cf0D0871c9818A2981DEBabA22b3",
-      "name": "tSPACE",
-      "symbol": "tSPACE",
-      "chainId": 280,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0xD74a0BdAe89c6c46f32933Dfe3CE788083746061.png"
-    },
     {
       "address": "0x0faf6df7054946141266420b43783387a78d82a9",
       "name": "USDC",
@@ -64,14 +56,6 @@
       "chainId": 324,
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4.png"
-    },
-    {
-      "address": "0x47260090cE5e83454d5f05A0AbbB2C953835f777",
-      "name": "SPACE",
-      "symbol": "SPACE",
-      "chainId": 324,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dasengdao/default-token-list-zkswap/main/assets/0x47260090cE5e83454d5f05A0AbbB2C953835f777.png"
     }
   ]
 }
